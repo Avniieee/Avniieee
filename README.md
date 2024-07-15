@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avniieee
-- 👀 I’m interested in AI and Ml learning
+- 👀 I’m interested in AI and Ml 
 - 🌱 I’m currently learning many things included python, Generative AI with AWS, ML coding and frankly how to maintain github
 
 
